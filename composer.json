@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.0",
+        "gumlet/php-image-resize": "1.8"
+    }
+}
